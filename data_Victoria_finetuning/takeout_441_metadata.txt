@@ -1,0 +1,125 @@
+original_sentence_id	sentence	locale
+000c9079c659141c1095ac09f31f97233697c99a1d3e855b11033620ff7d5142	Susan was always ready to replenish the wallets and fill the cans.	en
+047585e4b491ea7a3307f90a3763d4984c7e7ea09f089be9538c94f12423e5fb	This sin has been so public that hardly anyone has blushed for it.	en
+08338c9d79287816e4f9e13959fc94e429267c4df53dcd82d3bf08f9a5051762	Nothing but honour, kindness, and contentment would replenish the world.	en
+09008ce45d80c71b3924c8fdf2bca38e75bf0a478c54d18c64a99a5cdff103bc	You will proceed toward the window and sit down in that slop-tub.	en
+0aa617d02e237b764881c9f9295a6472b53192b833b25003bd52d1cd24e9fb9c	Between the two shanks a strong ledge can be drawn.	en
+0b5a69eda23d1b1947844234a1a2362f0bed80a780355249eb4eac585f295053	The weather was very tempestuous, and not likely to change.	en
+0be7bc9e7f8536508384944575013daa885f261bfb99b09a68190de93f806790	That stirring theme was long a stock subject for College exercises.	en
+0e3f844aed57abe9c45b5467d5f80831120943f07f43e13e278c4993adc8e745	Both these tendencies became more concentrated.	en
+12041b0b203f5838a603cc25758fd222bfc3464f65753a19a34d1b540d94f0a5	He will suddenly turn his copy.	en
+13426c954af7bbf23d6451fd954d7b8a46f6834282789c66469cfdd1bda14db5	There is no sectarianism, either of politics or religion.	en
+192ccd326bb0e5ef06bc9aa37afb72b19c1211d4d548e8aca7c8115c65d672bd	He was dismissed from the headmastership and imprisoned.	en
+19bbe27ac9380dad0d0ce6604ee32de4fae389729a8a9ac92f2c2438c24c27b7	That hedgehog of thoughts began to stir and unfold and come to life.	en
+1c7a386a570bbb8d8c4968292016efa3548b070b44fb14d340b0d9261234e983	The poet lets a possessive pronoun go without a substantive.	en
+1f2cc623c7981189188790b905c53908b9824603adf3f66cb40b141e0fff0587	No plan was so suggestive as that of quenching his sight.	en
+202eeaaa37bb446c3ca7c5b9e4ea68691e6f7879ccfd6015af4d4e225aa5ad8f	The empire was parcelled into twelve grand divisions.	en
+24a6464fe85bc64b428c6b406026ac0793d7d14566eb2a3f39c6fdfd0e7b0a88	Jim soon woke up and stretched himself.	en
+2582532e5ff36bea858f4206512bb293a5cec2d01c7c38538a289685ed68aa6d	Miss Broughton has been attending the meetings of the Psychical Society.	en
+27bb130614c23073b7a3f4b936742f612d8f0e1d5654e1704a06c4247cf00d3c	They must have had an original to copy after.	en
+2bb616915aecdca2d4682d12211dbb66c4f729e302fe0a4333a62bf9fea90a4e	What right does he have to ask questions anyway?	en
+2fafa78b0ee6bb9479acf419085c3909b66c8816030dd64a5a897e1b75c2c9a8	The milk cars cost about a thousand dollars each.	en
+34fd51c260c5a70250d2287d8ecb71229620671260250d04a76ea46de9658baf	The marina was crowded with spectators.	en
+37365df3d8f61317a0c98300d40ab5dd5a5748c1bd74ab88613f4d24012c8e84	Some of the affairs which led to the Bastille have a modern air.	en
+3a3c127c91a4b2cf54fea11a36c45442c32c8ddde23866316a595a291075d882	They most likely will not live to see the finished book.	en
+3b1e1a4365a58b8797a488a1458cb5417d083e059840dc9bc8647aeb4ed6e239	His tweed stalking cap was drawn over his eyes.	en
+3cc8594d20c5434d203d2070bafdfbcad5eccf8d2e7bdc6a049eef99f2ebb4c8	It is unnecessary to refer to the numerous other names which have been proposed.	en
+46692aa6ebabd9238cab3b702c8ec9df75276f7ea1a2fb1541dddb45e6377b04	A fine, blooming, odoriferous conceit is a natural appendage of youth.	en
+4902e6dcd038478beee6f401283b09545a9365ad2805d625c4b86f6dc7b5aead	We endeavor to replenish the hearts of creatures.	en
+51dbb202bd52a1cb35025632d5c9a4e03069d0bc608abb4326e8c4e1f9fad8d3	The Evangelical precepts distinctly humanized the way war was carried on.	en
+53372cebc284f6be4f31d5586ee6492a3bd2bdee3f58bd92fefadff4b7761892	The slops had never been emptied.	en
+5badcea4c3aa41132805161b780c952edce3fe6d8c9398df75434065dbec01e5	There is a bellman announcing something.	en
+624c2d2da29929c70bd30c4265fe7ca73e68627583028b6eb8cda062a869217e	A machine for removing mud in rivers is called a hedgehog.	en
+662853617e7d8d02fd8cff8345cf5b33b61b703ba6721207d3f73e26cd78a10b	The question comes back to me almost every time he writes.	en
+6a2edb79516b025fcb8a4e20cd9f8e397e70e52e2bd533109faaada52afc4936	They had better lay down the tomahawk and try and get together.	en
+6a618a28ef571835b1032f04d82c8570975be8ab952f42ba134de308d2cf947b	Most of the necessary servants may be lodged in the first ground story.	en
+75d9ddc7fbee50606578b636deac49b6df226bb2559d15699f138aeab2968037	The copy which I have is about three hundred years old.	en
+7c13af44da305172c699bcd6dd0ee3603588ae86f2ccd943a802c5b12dfefdf8	He knew the apostrophe indicated the possessive case.	en
+7cc8b5d8e8e77de43e72f953ba6ff2da13eb35424ec3369b71aca5d7cc8806ea	The mosquitoes and moose flies did their best to render us uncomfortable.	en
+7e689b392ec3ca31c7bc5705a1757c000649553e764adb82c04061eab6a679ca	Have your postcard photos of yourself taken before you sail.	en
+7f9dceae4969d27e316d3ef4b108d8351c36ce5c9f717c26b2724de0686c75ba	You will have many a quarrel and many a makeup.	en
+820a2c9836635cfc05b2dcee4ebcdba27333c59fa6d318140cb2a6fb8c469981	The emancipated priest is on the warpath.	en
+8a8000f2f5a619712a7000cad521ffafec9d751ebb0efbec0f90477a160cb542	All the appetites of man shall be replenished with all goodness.	en
+8d0372dcc99a3a8d7e07d5f4250732991dde2e91f1c064e6504e5e1eb432906c	Never buy a copy of a picture.	en
+8d670316985a7285ab1093119307e5c8701e3f5cb4b148c220d94ec5d893c567	His reputation was not permanently injured.	en
+8eaeb1a2a8fa782eb827a2fb1f51fda1dd0421a8d6382ecbed99de41bb29a530	Fitzgerald was an eccentric person who was always out of harmony with his environment.	en
+8ebd04e1ac56bda970d674d23a5abd2352d4a4b364e0d530e8b744990d37f803	If anyone says that picture is a copy I'll break his head!	en
+91658b10b5d738032b72056dd6efddf2c9d8acb13ac0427684c6a92b5dd937fb	He doesn't ask you to answer the old question.	en
+961e229183c49d60a297c60c286c97e9afe2d28d23390df9d3a6d9246260bea5	Many have plunged into it without realizing its gravity.	en
+98ce6d147fdb534c3f0df62076f37f1c1f8a1fda095b515ff15b9de61bdb3aa3	Some time or other I'll have to write to him definitively.	en
+9e54126871bc1afc675dce1f6bbfe19442d1612596552cb1971f44d128926a1a	A slop-pail should never be brought into a sick room.	en
+9eb67e2d877f7f60a2a45f0f5f4052c7cbbdc143cc57ff29ed2a9320bf774d0b	The appointments are kept out of the vortex of party and parliamentary jobbing.	en
+a17ce4af0cc32bdf834d6b6f6a85d8712f310cdbd2f20881abeb3e6ab021e331	I saw a guidepost surmounted by a pair of moose-horns.	en
+a1f0f09c7c81974d79c5516347b422b1030eb04fba19cab41a62404bb53255fa	This was demonstrated in a very forcible way.	en
+a21cf9008d53b94c8cd5b7f0a9ee19af0bbea36bf7a08e96b1b8905a45806c0e	She studiously affected the vigour and strength of middle life.	en
+a2cafaebde938797059ec659fbafdce9a3689fec4fb73ce9e739acd6ad8af927	My passions have been loosed in golden drops.	en
+a47a471a08e7980905a62b57460ae77580dedd320490d9ef3db7ddd842c4ca37	The Russian Greyhound resembles the English greyhound in form, but is larger.	en
+a8ef4e67c9b54f384aef7607caa3768064184126364918db11344226894b3086	Directly opposite to the sun was a luminous cross.	en
+b3b5b5192ac540adcd0b8e7fcea570fdd49d9c1e452b386f9e0cec5de7f926bf	I believe this insect to be androgynous.	en
+b50cd0ff4e39f0c4baec8a3d54604d3afc58b6137be492bc03c26722dc4116cc	The courts were strewed with odoriferous herbs and flowers.	en
+b62fe05c19c5f4896041b5928cf1b77c68c47ca51c6b2e6f97f5defbae8e91b6	Some of the housemaid skirts have upright trimmings of broad pointed bands.	en
+b76f4318097441c056bb3734143a1d49584c9c08fd835d19aea9cd39ca5a6603	Even a tea-room compromise would be welcome at the present moment.	en
+bfc9fa2a510da6f08a3cff50979d77d2d137e36afbe760fee3c2f87196337c44	His manner was kind and considerate.	en
+c089b95f39286398481c3b07a76da09d449cd95dc9f3c01af2f898524bf4f5e8	The vortex of a cyclone is often and aptly compared to a meteor.	en
+c221e612b95bc42d97e370781b3ddde71a2b83bdf867ca974a30ab03c1c54c01	The spelling of the copy-text has been followed exactly.	en
+c6976a974bd87a13be39892cf7e56e797b336c54518d05c4ef8c10d1aa10dba9	He is neither more nor less than an imp of the devil.	en
+c7b2d40e00324333d1d815469547cedbeb8cb5011d87378e1ffb442dc85df4e2	“It is hateful, their mean gloating,” she said intensely.	en
+c7b4f9fc21512a63e6ed22ba7d3e5974e40435d20f4ee2207b1673e7a0896eba	However, the most common payoffs for each of these games are symmetric.	en
+c7bf51c873d8878f8110c9b86f89cf8b4cbc0abdc74df669678aec2e0094b100	Edholm Point in Antarctica is named after him.	en
+c7c11cccd1f324886bab971353c82771de3bf90233a56a7807c8b8b4ba0149aa	It is bounded by other communes of Breno, Cerveno, Ceto, Losine, Niardo.	en
+c7cd6acb405f8c9b14886f1600addde281ffc90a65d5a46e33067864c95ea45c	He was the son of William Deering and his second wife, Clara Hammond Deering.	en
+c7d3494e0b0f3a7ebe17fde9803b7af8ba6a7574a1f7e66e31b16a5f723708a1	I used to joke there wasn't a single person in Washington she didn't know.	en
+c7d825ed82e1071909954858cd055444b34dc223230e2b2006a0aa29f006a414	His severed head was substituted for that of a goat.	en
+c7dc2f456919db156c7d55e7f3d0339fdae31f9de3829629fc374338da710750	Harassed by creditors and abandoned by friends, Savage reverted to a nocturnal existence.	en
+c7de863bd9d8d6504cbd19624a7b6522049d7e4b1ca559282e78ceed97fe2932	The city is located in the New Lead Belt.	en
+c7e1943dacf5dc5d1fc2b3d8d97a28af8d0f2b8f89544fcc7d6e31f2112837b6	Mason's writing style was colorful though straightforward.	en
+c7e1de964d2ec7225e8dad954b8f1dc00d378381e8f17c4454e75d7d08755f0e	Assistant District Attorney Barrington dislikes Hammer and believes that Chambers is guilty.	en
+c7e2ee92081d056e690dd8b455a39536aacc0ec29eeef551296de81aa1d3a8f9	Barry-Smith has worked as vocal coach and musical director of the Queensland Youth Choir.	en
+c7e5f7642c51a775f146dc9c953955006d81edd60a560fcf5a03f1426e2a535d	A better form of protest, more suited to hippie culture was needed.	en
+c7e731bc56336f10d5ed5c43524384ad50d5849db3b99869c35416441a54ee2b	She has been a leader of conservative interpretations of history and historiography.	en
+c7e7562823abba0cccfc453676c01b3ff0d57be459a1b1022cc58d4599ed6f6a	They contained letters from United States Postmaster General Arthur E. Summerfield.	en
+c7e8bd9cae2a250b66910612befa783dedc66dcca7c3d2dca77d2cfb916962d2	Sopwith had sheds at the nearby Brooklands aerodrome and racing circuit.	en
+c7e9167210505d445626d138b9b438f8151ee037db6f2880c9ad07fc4a8f105c	The name is a transfer from Xenia, Ohio.	en
+c7e9880bf2453189ecb9339a2e357c220b7aca2a54a97cc4fabde655ff60ceb3	Corman then hired Jack Nicholson to write the eventual screenplay.	en
+c7e9e8e86f14bc742e9b0ed01256d1ca976feaed00e4f99cd3648a547c3f7f06	Suhas then collaborated with his best friend Sandeep Raj for "Colour Photo".	en
+c7ea3054850a41bac7b80b10d00810d554ab9cb24fb8f0b4b39a6bc58a5304b6	The Narach River flows out of it.	en
+c7ea72a914c2c4672b992d128ba0b390e32807b71c1798294d358b278e33a20c	This caused the residents of neighbouring estates to protest against the decision.	en
+c7eb76a59d4121d18d3d34badb870b5fa223211fb4373388bcc6d82a99b44d45	Butler was eligible to play immediately after transferring due to his release.	en
+c7ebe00d410b260e8e75612f5da022febae8cff4a521d09884f46290c0558d98	For most mech games, they are played in either first-person or third-person view style.	en
+c7ec21d1c8c0a8c9af7467f833f34f04227a946dfc22f265838117c916701729	His burial place was along the way and is unknown.	en
+c7ecda33c5998d5a54e268effb9aaa2c4c1b73b0d2ad3f5ec0d715a406fe633f	I guess by her silence, as much as anything, what she feels.	en
+c7ee3064cb26e6bc562fffe3252c0a66ed760ff2596ff2e68143e7bad4d198ba	He was born on the family estate of Pendrea in Saint Buryan, Cornwall.	en
+c7eea1f5eca0f6ffe8b2fac1938d24deeae4bc0ad9edc4c855f8fc574f730e50	Semiha studied music and the visual arts at Istanbul Conservatory.	en
+c7eefc69e43a6e3b7772787f96d9d211534455d36102b2def972f35fc25ef957	The place was traditionally frequented by the city's artistic, cultural and literary personalities.	en
+c7efc0059f1317e99d494646aadc783cf2656638b46860258f99c7d6292092f2	Wrinkles explains that both characters were created as part of an elaborate art project.	en
+c7f142e39c1ff90980d4fbfc05daaaaa49c05cd4fa1e610b6c71cce970774c77	Both were later torn down and rebuilt.	en
+c7f165add545837d86ec07f233bf4ce826dce3aa8d8e08a0baedfe34287b05d2	He is named after Groucho's brother Arthur "Harpo" Marx.	en
+c7f1a7a61b18d549c00eafb5d7596dd4e336dab4b1e534817d7e7b120c1d1012	Its name roughly translates into English as "the Consultative Council".	en
+c7f1bcf8f5a08a1e4cd18103134e1bbf628850164f817d03b78b6610875efede	Mobility is limited, though individuals can move up to per day while feeding.	en
+c7f1f9ad7d7f53786edad98282df9fb7f77014ad934572f734011406ffacf824	Cheese also features on-screen and produces Rocketboom's spin-off Know Your Meme.	en
+c7f2792c95b692f67f31967efa8765741f5b52681987181373b290d1d5b5ac46	General critical reception to the character ranges from mixed to negative.	en
+c7f27c11582ef2bcfdf3d7e0a9bd0f28694c69e9e9299429c75afd1c0a7338ea	He is the son of Sourdust, the Master of Ritual of Gormenghast castle.	en
+c7f38017247e4b0495c7572be5fb9c1e92999e28d5164b9479c31b19613f6645	He was then involved in online arguments with some mainland netizens.	en
+c7f46367a479df38f152dcf505f77d985e5adf8a89279a23608af5acdc9d6979	She was the first African American school principal in Honolulu.	en
+c7f4c7d1eb3525470b4b7db4ff01d8ba841d9707e41ac978ea2728514d1da57e	Laurieston is a core part of the Gorbals.	en
+c7f55317b2515dbb736e8dcd8b59e21e4c847d87485b942d00c2046f7311f0f6	Facilities included libraries, club rooms, billiard rooms, swimming pools, tennis courts and even bowling.	en
+c7f5b2910ac7b28b3b761dcf48c2541f0d1283634966e461777e3fb994b0cf8f	Bi-annually, it hosts the Old Time Motor Show.	en
+c7f604b8e44cdc97d864ddda361cafc212943887519b82561c500d68588299d5	The bag adheres to the skin using a disk made of flexible, adherent materials.	en
+c7f619a74ccd944bd589f85c31ffc958cad2cdf5c4c877465ffec2b39f5ad321	Hector's beaked whales are dark greyish-brown dorsally, paler ventrally.	en
+c7f6926975258eb2ac52afd4b5b3947b24d494fa760a4db55c7e7037c9c791a6	MacDonald, Dan, and Jon also expressed disappointment with the limited selection of levels.	en
+c7f6c6cd4350c97b55ad71448fe4e046d85448166d85df7a986304b40f3d3fe8	They were the forerunners of modern bunker-busting bombs.	en
+c7f78980aba766c4a2f99b580843a53cda9cb59ae1aa6e59bbde42cb0b0b8a6b	They would simply blow up a vein and collect the pieces.	en
+c7f819717e81fb33745b0e2c3fb449a553787ca14c26ff2e7d2da9f652e420b2	Fabray's parents divorced when she was nine, but continued living together for financial reasons.	en
+c7f89fc3963f1d0acee7454a497202c154961638a01848a6cb40ee4a405943a9	He is buried in Farmington, Wisconsin's Immanuel Evangelical Lutheran Church Cemetery.	en
+c7f9b7916881c54f6af68c6684a123d9f1bf23220523a770b7d66d16d8cdd377	It was later revealed that he was suffering from social anxiety disorder and depression.	en
+c7fbc976d0a573d7a5b3bf595ea73852fec329fddaee229acfd18fbeecef1796	Some aided Northern forces by smuggling food and supplies across the Potomac River.	en
+c7fcb171d74e3c98cf125a82b78040b8367c58260698b71fdefdbc31a8532283	Parts of the magazine were later compiled and translated into German.	en
+c7fcc9fe588d645418894fd85374b5ca7bb26d9e0b1e61ae59789e9c9872b562	A generation later the del Buono approach had for many become mainstream.	en
+c7fd01fda3b24877f7f9e48a10fc1fb06c9b691080a25dfced21a98501004b03	It is situated in the middle of Indian Ocean.	en
+c7fddcb6f16158a4ee9fe94c59123b69e17e0ede519b0177f6858c2463c154b6	The large majority of these features are impact craters.	en
+c7ffab7d1bb718cd7771fbede44111daae75d7485f88783cbd844b01c5b41539	This may refer to molecules that are substrates for both luciferases and photoproteins.	en
+c8028970c488286e044ef8adc99c77b6a54624ae1424fca98061672a1db8ccef	In Modelica, this is achieved by requiring so called balanced models.	en
+c8040fdf03025096e58a242921b51c0d7b67a4e61dff8f5061fc2845524415d1	It embraces the claim that "God himself builds his church in Asia".	en
+c804a6fdde9e4caeb31131308aa2d7bce9a5e23b20b17956a07b2dab009d5c35	After Biotrog returned after he was supposedly killed by Yondabis and his allies.	en
+c805e2b2d0bb1e33c7ce8a16585acfa211716da5f7b6e076779f869637140ba5	The communists attacked the medical villa continuously with mortars.	en
+c80638624662da754c054ac9af6f38b4614f9fb1af7460024dfe9aad42548e4e	She graduated from Lincoln High School.	en
